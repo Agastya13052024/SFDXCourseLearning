@@ -30,6 +30,7 @@
     </actionOverrides>
     <actionOverrides>
         <actionName>Clone</actionName>
+         <formFactor>Large</formFactor>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
