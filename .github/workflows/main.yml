@@ -3,6 +3,6 @@ name: SFDXFlow
 on: 
 workflow_dispatch:
 push:
--master
+- master
 
 
