@@ -1,7 +1,6 @@
 #This workflow is to run on push events to the main branch and release/* branch.
 name: SFDXFlow
 on: 
-workflow_dispatch:
 push:
 - master
 
